@@ -28,7 +28,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='cosbr',
-    version='0.1.0',
+    version='0.1.1',
     description='Solver using Simulated Bifurcation',
     long_description=long_description,
     long_description_content_type='text/markdown',

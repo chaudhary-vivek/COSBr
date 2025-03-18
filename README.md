@@ -79,4 +79,4 @@ print(f"Final energy: {final_energy}")
 
 ## License
 
-Apache
+MIT License
