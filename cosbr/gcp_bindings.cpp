@@ -4,7 +4,7 @@
 #include <vector>
 #include <utility>
 
-// Include your original cpp file
+// Include the gcp.cpp file
 // We'll include it as a header to avoid rewriting the functions
 #include "gcp.cpp"
 
